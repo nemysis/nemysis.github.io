@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en"><!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- Basic
+================================================== -->
+<meta charset="utf-8">
+<title>nemysis@FreeBSD.org</title>
+<meta name="description" content="nemysis@FreeBSD.org">
+<meta name="author" content="nemysis">
+<meta name="keywords" content="nemysis, bsd, freebsd, pc-bsd, pfsense, unix">
+
+<!-- Mobile
+================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- CSS
+================================================== -->
+<link rel="stylesheet" href="links_files/nemysis.css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Favicons
+================================================== -->
+<link rel="shortcut icon" href="index_files/favicon.ico" type="image/x-icon">
+<link rel="icon" href="index_files/favicon.ico" type="image/x-icon">
+<style>#kmaqxoiqwspsltqfukbdvlqioysdtogeaa{border:solid 2px #fff !important;color:#fff !important;display:block !important;height:auto !important;margin:0 !important;opacity:0.9 !important;padding:7px 10px !important;position:fixed !important;visibility:visible !important;width:auto !important;z-index:2147483647 !important;-moz-border-radius:5px !important;border-radius:5px !important;-moz-box-shadow:0px 0px 20px #000 !important;box-shadow:0px 0px 20px #000 !important;}.kmaqxoiqwspsltqfukbdvlqioysdtogeaa-blocked{color:#777 !important;display:inline !important;text-decoration:line-through !important;}#kmaqxoiqwspsltqfukbdvlqioysdtogeaa span{background:transparent !important;}#kmaqxoiqwspsltqfukbdvlqioysdtogeaa div{border:0 !important;margin:0 !important;padding:0 !important;width:auto !important;letter-spacing:normal !important;font:13px Arial,Helvetica !important;text-align:left !important;text-shadow:none !important;text-transform:none !important;word-spacing:normal !important;}#kmaqxoiqwspsltqfukbdvlqioysdtogeaa a{font-weight:normal !important;background:none !important;text-decoration:underline !important;color:#fff !important;}@media print{#kmaqxoiqwspsltqfukbdvlqioysdtogeaa{display:none !important;}}</style><link href="links_files/Content.css" type="text/css" rel="stylesheet"></head>
+
+<!-- Page
+================================================== -->
+<body>
+<header>
+<div class="top">Made in <a href="http://unix.org/" target="_blank">UNIX®</a></div>
+<nav id="links"><ul><li id="homenav"><a href="/" id="hml">Home</a></li>
+<li id="linksnav"><a href="links.html" id="lkl">Links</a></li>
+</ul></nav>
+</header>
+<br><br><br>
+<h1>Links</h1>
+
+<h2 class="cat" id="nemysis">nemysis</h2>
+
+<blockquote>Me? I am just a <strong> openSUSE member, openSUSE Games and Network maintainer FreeBSD developer and avid user</strong>. These are links, but first my work.</blockquote>
+
+<div class="box"><ul>
+<li><a href="https://wiki.freebsd.org/RusmirDusko" target="_blank">FreeBSD Wiki</a></li>
+<li><a href="https://build.opensuse.org/user/show/nemysis" target="_blank">openSUSE Build Service</a></li>
+<li><a href="https://wiki.freebsd.org/Games" target="_blank">FreeBSD Games Project</a></li>
+<li><a href="https://build.opensuse.org/project/users/games" target="_blank">openSUSE Build Service, Users of games</a></li>
+<li><a href="https://github.com/nemysis/FreeBSD_Ports" target="_blank">GitHub FreeBSD Ports</a></li>
+<li><a href="http://sourceforge.net/projects/nemysisfreebsdp/files" target="_blank">SF FreeBSD Ports files</a></li>
+<li><a href="https://redports.org/wiki/Users/nemysis" target="_blank">RedPorts</a></li>
+<li><a href="http://pootle.pcbsd.org/accounts/nemysis" target="_blank">PC-BSD Translation System</a></li>
+<li><a href="http://www.freebsd.org/cgi/query-pr-summary.cgi?&amp;originator=nemysis&amp;sort=none" target="_blank">FreeBSD Problem Reports</a></li>
+<li><a href="http://www.freebsd.org/cgi/query-pr-summary.cgi?category=&severity=&priority=&class=&state=&sort=none&text=&responsible=nemysis&multitext=&originator=&release=" target="_blank">FreeBSD Assigned PRs</a></li>
+<li><a href="http://www.freshports.org/search.php?stype=maintainer&amp;method=exact&amp;query=nemysis@FreeBSD.org" target="_blank">FreshPorts maintainer</a></li>
+<li><a href="http://www.freshports.org/search.php?stype=committer&amp;method=exact&amp;query=nemysis" target="_blank">FreshPorts commited</a></li>
+<li><a href="http://www.freebsd.org/cgi/ports.cgi?query=nemysis&amp;stype=maintainer" target="_blank">FreeBSD Ports</a></li>
+<li><a href="http://portsmon.freebsd.org/portsconcordanceformaintainer.py?maintainer=nemysis" target="_blank">FreeBSD Ports Monitor</a></li>
+<li><a href="http://portscout.freebsd.org/nemysis@freebsd.org.html" target="_blank">FreeBSD Portscout</a></li>
+<li><a href="http://people.freebsd.org/%7Eehaupt/distilator/nemysis@FreeBSD.org.html" target="_blank">FreeBSD Distilator</a></li>
+<li><a href="https://github.com/hexchat/hexchat/commits/master" target="_blank">HexChat GitHub master</a></li>
+<li><a href="http://freshbsd.org/search?q=nemysis&amp;page=1" target="_blank">FreshBSD Committer</a></li>
+<li><a href="https://github.com/freebsd/freebsd-ports/commits?author=nemysis@FreeBSD.org" target="_blank">GitHub FreeBSD Ports commits</a></li>
+</ul></div>
+
+<h2 class="cat" id="security">My Friends</h2>
+
+<div class="box"><ul>
+<li><a href="http://zdroid.anapnea.net/" target="_blank">ZDroid</a></li>
+<li><a href="http://kgb.anapnea.net/" target="_blank">v1adimir, kgb @ Freenode</a></li>
+<li><a href="http://www.martignetti.co.rs/" target="_blank">Martignetti, dexi</a></li>
+<li><a href="https://github.com/ppekala/freebsd-ports-tools" target="_blank">Paweł, pawel@</a></li>
+<li><a href="http://xmj.me/" target="_blank">xmj@</a></li>
+<li><a href="http://www.dankoweit.de/" target="_blank">Jürgen Dankoweit, juedan</a></li>
+<li><a href="http://vendu.twodots.nl/wizardcode.html" target="_blank">Vendu</a></li>
+<li><a href="http://wiki.pcbsd.org/index.php/User:Tigersharke" target="_blank">PC-BSD Wiki User:Tigersharke</a></li>
+<li><a href="http://wiki.pcbsd.org/index.php/User:Horia" target="_blank">PC-BSD Wiki User:Horia</a></li>
+<li><a href="http://sourceforge.net/projects/lifanov-ports-distfiles/" target="_blank">Nikolai Lifanov</a></li>
+<li><a href="https://zacts.github.io/" target="_blank">zacts</a></li>
+<li><a href="https://github.com/smss1995" target="_blank">Seyyed Muhammed Sadegh Salehi</a></li>
+<li><a href="https://pranavk.github.io/" target="_blank">Pranav Kant</a></li>
+</ul></div>
+
+
+<h2 class="cat" id="security">Smart Questions</h2>
+
+<div class="box"><ul>
+<li><a href="http://catb.org/%7Eesr/faqs/smart-questions.html" target="_blank">How To Ask Questions The Smart Way</a></li>
+<li><a href="http://solair.eunet.rs/%7Efangorn/smart_questions/smart-questions.sr.html" target="_blank">Kako pametno postavljati pitanja</a></li>
+<li><a href="http://www.chiark.greenend.org.uk/%7Esgtatham/bugs.html" target="_blank">How to Report Bugs Effectively</a></li>
+<li><a href="http://www.eyrie.org./%7Eeagle/faqs/questions.html" target="_blank">Why Ask Questions in Public?</a></li>
+<li><a href="http://sourceforge.net/projects/nemysisfreebsdp/files/Asking_Smart_Questions/ask-smart-questions.pdf" target="_blank">DoctorMO Asking Smart Questions.pdf</a></li>
+</ul></div>
+
+<h2 class="cat" id="security">Security</h2>
+
+<div class="box"><ul>
+<li><a href="https://www.schneier.com/" target="_blank">Bruce Schneier on Security</a></li>
+<li><a href="http://sleepyhead.de/" target="_blank">Sleepyhead</a></li>
+<li><a href="http://nakedsecurity.sophos.com/" target="_blank">Naked Security</a></li>
+<li><a href="http://cxsecurity.com/" target="_blank">CXSECURITY</a></li>
+<li><a href="http://privacyalternatives.wikispaces.com/" target="_blank">PRIVACYALTERNATIVES</a></li>
+<li><a href="http://theregister.co.uk/" target="_blank">The Register</a></li>
+<li><a href="http://thehackernews.com/" target="_blank">The Hacker News</a></li>
+<li><a href="http://packetstormsecurity.com/" target="_blank">Packet Storm</a></li>
+<li><a href="https://www.securelist.com/" target="_blank">Securelist</a></li>
+<li><a href="http://phys.org/" target="_blank">Phys.org</a></li>
+<li><a href="https://publicintelligence.net/" target="_blank">Public Intelligence</a></li>
+<li><a href="https://www.dnsleaktest.com/" target="_blank">DNS leak</a></li>
+<li><a href="http://www.browserleaks.com/" target="_blank">Web Browser Security</a></li>
+<li><a href="https://browsercheck.qualys.com/" target="_blank">Qualys BrowserCheck</a></li>
+<li><a href="http://www.freebsd.org/security/" target="_blank">FreeBSD Security Information</a></li>
+<li><a href="http://fbsd-update.pcbsd.org/" target="_blank">PC-BSD Security Information</a></li>
+</ul></div>
+
+<h2 class="cat" id="os">Operating systems</h2>
+
+<h3 id="freebsd">FreeBSD</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.freebsd.org/" target="_blank">FreeBSD site</a></li>
+<li><a href="http://www.freebsd.org/doc/en/books/handbook" target="_blank">FreeBSD Handbook</a></li>
+<li><a href="http://www.freebsd.org/news/newsflash.html" target="_blank">FreeBSD News Flash</a></li>
+<li><a href="http://www.freebsd.org/cgi/man.cgi" target="_blank">FreeBSD Man Pages</a></li>
+<li><a href="http://www.freebsd.org/cgi/query-pr-summary.cgi" target="_blank">Query FreeBSD problem reports</a></li>
+<li><a href="http://www.freebsd.org/send-pr.html" target="_blank">Submit a FreeBSD problem report</a></li>
+<li><a href="http://svnweb.freebsd.org/ports/head/" target="_blank">FreeBSD Ports SVNWeb</a></li>
+<li><a href="http://www.freshports.org/" target="_blank">FreshPorts</a></li>
+<li><a href="http://www.freebsd.org/doc/en/books/handbook/eresources.html#ERESOURCES-MAIL" target="_blank">FreeBSD Mailing Lists</a></li>
+<li><a href="https://wiki.freebsd.org/ContribSoftware" target="_blank">FreeBSD ContribSoftware</a></li>
+<li><a href="http://freebsdnow.blogspot.ca/" target="_blank">FreeBSDnow blogspot</a></li>
+</ul></div>
+
+<h3 id="pcbsd">PC-BSD</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.pcbsd.org/" target="_blank">PC-BSD site</a></li>
+<li><a href="http://wiki.pcbsd.org/index.php/PC-BSD_Users_Handbook" target="_blank">PC-BSD Users Handbook</a></li>
+<li><a href="http://blog.pcbsd.org/" target="_blank">PC-BSD Blog</a></li>
+<li><a href="http://wiki.pcbsd.org/index.php/" target="_blank">PC-BSD Wiki</a></li>
+<li><a href="http://wiki.pcbsd.org/index.php/Flat_html" target="_blank">PC-BSD Wiki Flat html</a></li>
+<li><a href="https://wiki.pcbsd.org/index.php/Mailing_Lists" target="_blank">PC-BSD Mailing Lists</a></li>
+<li><a href="http://trac.pcbsd.org/" target="_blank">PC-BSD Trac</a></li>
+<li><a href="https://github.com/pcbsd" target="_blank">PC-BSD GitHub</a></li>
+<li><a href="http://pootle.pcbsd.org/" target="_blank">PCBSD Translation System</a></li>
+<li><a href="http://pbibuild64.pcbsd.org/" target="_blank">PBI Auto-Build (amd64)</a></li>
+<li><a href="http://pbibuild.pcbsd.org/" target="_blank">PBI Auto-Build (i386)</a></li>
+</ul></div>
+
+<h3 id="freebsd">Making FreeBSD Ports</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.freebsd.org/doc/en/books/porters-handbook/" target="_blank">FreeBSD Porters Handbook</a></li>
+<li><a href="http://redports.org/" target="_blank">RedPorts</a></li>
+<li><a href="https://wiki.freebsd.org/PortsSubversionPrimer" target="_blank">Subversion for FreeBSD Ports</a></li>
+<li><a href="https://github.com/freebsd/freebsd-ports" target="_blank">FreeBSD Ports GitHub</a></li>
+<li><a href="http://portsmon.freebsd.org/" target="_blank">FreeBSD Ports Monitoring System</a></li>
+<li><a href="https://wiki.freebsd.org/PortsLongtermTargets" target="_blank">Longterm Targets of Ports Collection</a></li>
+<li><a href="http://www.freebsd.org/internal/developer.html" target="_blank">Resources for FreeBSD Committers</a></li>
+<li><a href="http://www.freebsd.org/doc/en/books/developers-handbook/book.html" target="_blank">FreeBSD Developers' Handbook</a></li>
+<li><a href="http://www.freebsd.org/doc/en/books/fdp-primer/book.html" target="_blank">FreeBSD Documentation Project Primer for New Contributors</a></li>
+<li><a href="http://www.freebsd.org/doc/en/articles/committers-guide/index.html" target="_blank">Committer's Guide</a></li>
+<li><a href="http://www.freebsd.org/doc/en/articles/committers-guide/ports.html" target="_blank">Committer's Guide Ports Specific FAQ</a></li>
+<li><a href="https://wiki.freebsd.org/Developers" target="_blank">FreeBSD Developers</a></li>
+<li><a href="https://wiki.freebsd.org/HowWeGotHere" target="_blank">FreeBSD HowWeGotHere</a></li>
+<li><a href="https://wiki.freebsd.org/IrcNicks" target="_blank">FreeBSD IrcNicks</a></li>
+<li><a href="http://people.freebsd.org/%7Eeadler/datum/" target="_blank">FreeBSD Repository Statistics</a></li>
+<li><a href="http://lists.freebsd.org/pipermail/svn-ports-all/" target="_blank">FreeBSD svn-ports-all</a></li>
+<li><a href="http://standards.freedesktop.org/menu-spec/menu-spec-latest.html" target="_blank">Desktop Menu Specification</a></li>
+</ul></div>
+
+<h3 id="pfsense">pfSense</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.pfsense.org/" target="_blank">pfSense site</a></li>
+<li><a href="http://blog.pfsense.org/" target="_blank">pfSense blog</a></li>
+<li><a href="http://doc.pfsense.org/index.php/Main_Page" target="_blank">pfSense Documentation</a></li>
+<li><a href="http://doc.pfsense.org/index.php/Tutorials" target="_blank">pfSense Tutorials</a></li>
+</ul></div>
+
+<h3 id="OpenBSD">OpenBSD</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.openbsd.org/" target="_blank">OpenBSD site</a></li>
+<li><a href="http://www.openbsd.org/faq/" target="_blank">OpenBSD Frequently Asked Questions</a></li>
+<li><a href="http://www.openbsd.org/faq/ports/" target="_blank">OpenBSD Porter's Handbook</a></li>
+<li><a href="http://openports.se/" target="_blank">OpenBSD Ports</a></li>
+<li><a href="https://stable.mtier.org/" target="_blank">M:Tier's OpenBSD packages and binpatches</a></li>
+</ul></div>
+
+<h3 id="other-bsd">Other BSD</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.bsdforen.de/" target="_blank">BSDForen.de - Die BSD-Community</a></li>
+<li><a href="http://onlamp.com/" target="_blank">The Open Source Web Platform</a></li>
+</ul></div>
+
+<h3 id="osx">OS X</h3>
+
+<div class="box"><ul>
+<li><a href="https://www.apple.com/" target="_blank">Apple site</a></li>
+<li><a href="https://www.apple.com/osx/apps/app-store.html" target="_blank">App Store</a></li>
+<li><a href="https://www.apple.com/downloads/dashboard/" target="_blank">Dashboard Downloads</a></li>
+<li><a href="http://trailers.apple.com/" target="_blank">iTunes Movie Trailers</a></li>
+<li><a href="https://code.google.com/p/rudix/wiki/Packages" target="_blank">rudix Packages</a></li>
+<li><a href="http://sourceforge.net/projects/machomebrew/files/Bottles" target="_blank">Homebrew Bottles</a></li>
+<li><a href="http://fink.thetis.ig42.org/" target="_blank">Fink</a></li>
+<li><a href="http://www.macupdate.com/" target="_blank">MacUpdate</a></li>
+<li><a href="http://download.cnet.com/mac/" target="_blank">CNET Mac Downloads</a></li>
+<li><a href="http://osx.hyperjeff.net/Apps/" target="_blank">HyperJeff Network OS X Apps</a></li>
+<li><a href="http://roaringapps.com/apps:table" target="_blank">App Compatibility Table</a></li>
+<li><a href="http://www.downloadfreemacgames.com/" target="_blank">Download Free Mac Games</a></li>
+<li><a href="http://www.macgamefiles.com/" target="_blank">macgamefiles</a></li>
+<li><a href="http://www.findmysoft.com/mac/" target="_blank">Mac at Findmysoft</a></li>
+<li><a href="https://www.macosforge.org/" target="_blank">Mac OS Forge</a></li>
+<li><a href="https://www.macports.org/" target="_blank">MacPorts</a></li>
+<li><a href="https://www.macports.org/ports.php" target="_blank">MacPorts - Available Ports</a></li>
+<li><a href="https://lists.macosforge.org/mailman/listinfo" target="_blank">Mac OS Forge Mailling Lists</a></li>
+</ul></div>
+
+<h3 id="forums">OpenSUSE</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.opensuse.org/en/" target="_blank">openSUSE</a></li>
+<li><a href="https://en.opensuse.org/Portal" target="_blank">Portal</a></li>
+<li><a href="https://en.opensuse.org/Portal:Wiki" target="_blank">Portal:Wiki</a></li>
+<li><a href="https://news.opensuse.org/" target="_blank">openSUSE News</a></li>
+<li><a href="https://lizards.opensuse.org/" target="_blank">openSUSE Lizards</a></li>
+<li><a href="https://en.opensuse.org/Category:Hardware" target="_blank">Category:Hardware</a></li>
+<li><a href="https://openqa.opensuse.org/" target="_blank">openQA</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Mailing_lists" target="_blank">openSUSE:Mailing lists</a></li>
+<li><a href="http://lists.opensuse.org/" target="_blank">openSUSE Mailinglist Archives</a></li>
+<li><a href="http://kernel.opensuse.org/" target="_blank">The openSUSE Kernel Site</a></li>
+<li><a href="http://software.opensuse.org/find" target="_blank">Package find</a></li>
+<li><a href="http://en.opensuse.org/Package_repositories" target="_blank">Package repositories</a></li>
+<li><a href="https://en.opensuse.org/YaST_Software_Management" target="_blank">YaST Software Management</a></li>
+<li><a href="http://packman.links2linux.org/" target="_blank">PackMan</a></li>
+<li><a href="https://en.opensuse.org/Portal:Zypper" target="_blank">Portal:Zypper</a></li>
+</ul></div>
+
+<h3 id="forums">Making RPM</h3>
+
+<div class="box"><ul>
+<li><a href="https://build.opensuse.org/project/show/openSUSE" target="_blank">OBS openSUSE Project</a></li>
+<li><a href="https://build.opensuse.org/project/show/openSUSE:Factory" target="_blank">OBS openSUSE:Factory</a></li>
+<li><a href="https://build.opensuse.org/project/show/games" target="_blank">OBS Games</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_Games" target="_blank">openSUSE:Packaging Games</a></li>
+<li><a href="https://fedoraproject.org/wiki/How_to_create_an_RPM_package" target="_blank">Fedora How to create an RPM package</a></li>
+<li><a href="https://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/RPM_Guide/index.html" target="_blank">Fedora Draft Documentation, RPM Guide</a></li>
+<li><a href="https://wiki.mageia.org/en/Packagers_RPM_tutorial" target="_blank">Mageia Packagers RPM tutorial</a></li>
+<li><a href="https://build.opensuse.org/" target="_blank">openSUSE Build Service</a></li>
+<li><a href="http://openbuildservice.org/help/manuals/obs-reference-guide/" target="_blank">Open Build Service Reference Guide</a></li>
+<li><a href="http://openbuildservice.org/help/manuals/obs-best-practices/" target="_blank">Open Build Service Best Practice Guide</a></li>
+<li><a href="https://en.opensuse.org/Portal:Build_Service" target="_blank">Portal:Build Service</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Build_Service_Collaboration" target="_blank">openSUSE:Build Service Collaboration</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:High_Availability" target="_blank">openSUSE:High Availability</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Build_Service_Tutorial" target="_blank">openSUSE:Build Service Tutorial</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Build_Service_Tips_and_Tricks" target="_blank">openSUSE:Build Service Tips and Tricks</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_Patches_guidelines" target="_blank">openSUSE:Packaging Patches guidelines</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_checks" target="_blank">openSUSE:Packaging checks</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_guidelines" target="_blank">openSUSE:Packaging guidelines</a></li>
+<li><a href="https://fedoraproject.org/wiki/Packaging:Guidelines" target="_blank">Fedora Packaging:Guidelines</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Package_maintenance" target="_blank">openSUSE:Package maintenance</a></li>
+<li><a href="https://en.opensuse.org/SourceUrls" target="_blank">openSUSE:SourceUrls</a></li>
+<li><a href="https://fedoraproject.org/wiki/Packaging:SourceURL?rd=Packaging/SourceURL" target="_blank">Fedora Packaging:SourceURL</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Build_system_recipes" target="_blank">openSUSE:Build system recipes</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Package_naming_guidelines" target="_blank">openSUSE:Package naming guidelines</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Shared_library_packaging_policy" target="_blank">openSUSE:Shared library packaging policy</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:OSC" target="_blank">openSUSE:OSC</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Specfile_guidelines" target="_blank">openSUSE:Specfile guidelines</a></li>
+<li><a href="https://wiki.mageia.org/en/RPM_Spec_file_policy" target="_blank">Mageia RPM Spec file policy</a></li>
+<li><a href="http://rpm.org/max-rpm-snapshot/s1-rpm-inside-macros.html" target="_blank">Maximum RPM, Macros: Helpful Shorthand for Package Builders</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_Conventions_RPM_Macros" target="_blank">openSUSE:Packaging Conventions RPM Macros</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_Python" target="_blank">openSUSE:Packaging Python</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Java_jpackage-utils" target="_blank">openSUSE:Java jpackage-utils</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Java_RPM_Macros" target="_blank">openSUSE:Java RPM Macros</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Fixing_bugs" target="_blank">openSUSE:Fixing bugs</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Howto_write_good_changes" target="_blank">openSUSE:Creating a changes file (RPM)</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Packaging_Java" target="_blank">openSUSE:Packaging Java</a></li>
+<li><a href="http://standards.freedesktop.org/menu-spec/menu-spec-latest.html" target="_blank">Desktop Menu Specification</a></li>
+<li><a href="https://en.opensuse.org/openSUSE:Package_group_guidelines" target="_blank">openSUSE:Package group guidelines</a></li>
+<li><a href="http://rpmfind.net/" target="_blank">Rpmfind</a></li>
+<li><a href="http://www.rpmseek.com/" target="_blank">RPM seek</a></li>
+<li><a href="http://rpm.pbone.net/" target="_blank">RPM pbone.net</a></li>
+<li><a href="https://admin.fedoraproject.org/pkgdb/" target="_blank">Fedora Package Database</a></li>
+<li><a href="http://rpmfusion.org/" target="_blank">Fedora RPM Fusion</a></li>
+<li><a href="http://packages.altlinux.org/en/" target="_blank">Sisyphus repository</a></li>
+</ul></div>
+
+<h3 id="forums">Troubleshooting tips</h3>
+
+<div class="box"><ul>
+<li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
+<li><a href="http://www.cplusplus.com/" target="_blank">C++ cplusplus.com</a></li>
+<li><a href="http://clang.llvm.org/docs/" target="_blank">Clang documentation</a></li>
+<li><a href="http://gcc.gnu.org/onlinedocs/gcc/Invoking-GCC.html#Invoking-GCC" target="_blank">GCC Command Options</a></li>
+<li><a href="http://www.pygame.org/docs/genindex.html" target="_blank">Pygame documentation index</a></li>
+<li><a href="http://wiki.libsdl.org/FrontPage" target="_blank">Simple DirectMedia Layer</a></li>
+<li><a href="https://developer.gnome.org/" target="_blank">GNOME Developer</a></li>
+<li><a href="https://www.opengl.org/wiki/Common_Mistakes" target="_blank">OpenGL Common Mistakes</a></li>
+<li><a href="http://qt-project.org/doc/qt-4.8/qtcore.html" target="_blank">QtCore Module</a></li>
+<li><a href="http://gpo.zugaina.org/" target="_blank">Gentoo Portage Overlay</a></li>
+<li><a href="http://git.overlays.gentoo.org/gitweb/" target="_blank">Gentoo Overlays</a></li>
+<li><a href="https://aur.archlinux.org/" target="_blank">Arch Linux Package Search</a></li>
+<li><a href="http://slackbuilds.org/" target="_blank">SlackBuilds</a></li>
+<li><a href="http://patch-tracker.debian.org/" target="_blank">Debian GNU/Linux patch tracking system</a></li>
+</ul></div>
+
+<h3 id="forums">Forums</h3>
+
+<div class="box"><ul>
+<li><a href="http://forums.freebsd.org/" target="_blank">FreeBSD forums</a></li>
+<li><a href="http://forums.pcbsd.org/" target="_blank">PC-BSD forums</a></li>
+<li><a href="http://forum.pfsense.org/" target="_blank">pfSense forum</a></li>
+<li><a href="https://forums.opensuse.org/forum.php" target="_blank">openSUSE Forums</a></li>
+<li><a href="https://discussions.apple.com/community/mac_os" target="_blank">OS X discussions</a></li>
+</ul></div>
+
+<h3 id="forums">Android</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.android.com/" target="_blank">Android</a></li>
+<li><a href="http://www.xda-developers.com/" target="_blank">XDA Developers</a></li>
+<li><a href="http://www.androidpolice.com/" target="_blank">Android Police</a></li>
+<li><a href="http://www.androidlegend.com/" target="_blank">Android Legend</a></li>
+<li><a href="https://www.google.com/settings/dashboard" target="_blank">Google Dashboard</a></li>
+<li><a href="https://www.google.com/android/devicemanager" target="_blank">Android Device Manager</a></li>
+<li><a href="http://lifehacker.com/5806135/the-10-best-android-apps-that-make-rooting-your-phone-worth-the-hassle" target="_blank">The 10 Best Android Apps that Make Rooting Your Phone Worth the Hassle</a></li>
+<li><a href="http://techcrunch.com/2013/07/04/android-security-hole/" target="_blank">Android ‘Master Key’ Security Hole Puts 99% Of Devices At Risk Of Exploitation</a></li>
+<li><a href="http://www.cyanogenmod.org/" target="_blank">CyanogenMod</a></li>
+<li><a href="http://wiki.cyanogenmod.org/w/Why_Mod%3F" target="_blank">Why Mod?</a></li>
+<li><a href="http://stats.cyanogenmod.com/map/" target="_blank">CyanogenMod Orbital</a></li>
+<li><a href="http://wiki.cyanogenmod.org/w/Hammerhead_Info" target="_blank">Google Nexus 5</a></li>
+<li><a href="http://wiki.cyanogenmod.org/w/Google_Apps" target="_blank">Google Apps</a></li>
+<li><a href="http://www.cyanogenmod.org/blog/the-l-is-for-later" target="_blank">The “L” is for Later</a></li>
+<li><a href="http://www.androidrootz.com/" target="_blank">AndroidRootz</a></li>
+<li><a href="http://samfirmware.com/" target="_blank">SamMobile</a></li>
+<li><a href="http://www.replicant.us/" target="_blank">Replicant</a></li>
+<li><a href="http://en.miui.com/" target="_blank">MIUI</a></li>
+<li><a href="https://tasssadar.github.io/multirom/" target="_blank">MultiROM</a></li>
+<li><a href="http://www.koushikdutta.com/2010/02/clockwork-recovery-image.html" target="_blank">ROM Manager</a></li>
+<li><a href="http://wiki.cyanogenmod.org/w/Doc:_fastboot_intro" target="_blank">fastboot intro</a></li>
+<li><a href="http://wiki.cyanogenmod.org/w/All_About_Recovery_Images" target="_blank">All About Recovery Images</a></li>
+<li><a href="http://teamw.in/project/twrp2" target="_blank">TWRP</a></li>
+<li><a href="http://teamw.in/twrpfaq" target="_blank">TWRP FAQ</a></li>
+<li><a href="http://clockworkmod.com/rommanager" target="_blank">ClockworkMod Recovery</a></li>
+<li><a href="http://forum.xda-developers.com/showthread.php?t=2201860" target="_blank">PhilZ Touch</a></li>
+<li><a href="http://forum.xda-developers.com/google-nexus-5/general/noob-read-adb-fastboot-how-hep-t2807273" target="_blank">adb and fastboot. What is it? How can it help you?</a></li>
+<li><a href="http://forum.xda-developers.com/google-nexus-5/general/guide-nexus-5-how-to-unlock-bootloader-t2507905" target="_blank">Nexus 5 - How to Unlock Bootloader, Install Custom Recovery and Root</a></li>
+<li><a href="http://forum.xda-developers.com/google-nexus-5/general/tutorial-how-to-flash-factory-image-t2513701" target="_blank">How to flash a factory image | Return to stock | Unroot your Nexus 5</a></li>
+<li><a href="http://androidforums.com/android-applications/693750-never-use-google-contacts-ever.html" target="_blank">Never use Google contacts, ever.</a></li>
+<li><a href="http://www.androidtapp.com/" target="_blank">AndroidTapp</a></li>
+<li><a href="http://www.oneclickroot.com/how-to/top-5-ways-to-find-cool-apps-outside-of-the-google-play-store/" target="_blank">Top 5 ways to find cool apps outside of the Google Play Store</a></li>
+<li><a href="https://play.google.com/store" target="_blank">Google Play</a></li>
+<li><a href="http://apkleecher.com/" target="_blank">ApkLeecher</a></li>
+<li><a href="http://www.apkhere.com/" target="_blank">Apk Here</a></li>
+<li><a href="http://www.aptoide.com/" target="_blank">Aptoide</a></li>
+<li><a href="https://f-droid.org/" target="_blank">F-Droid</a></li>
+<li><a href="https://sufficientlysecure.org/index.php/adaway/" target="_blank">AdAway</a></li>
+<li><a href="http://forum.xda-developers.com/showthread.php?t=2700236" target="_blank">App Manager</a></li>
+<li><a href="http://www.xda-developers.com/android/selectively-block-ads-on-certain-apps-with-xposed-module/" target="_blank">Selectively Block Ads on Certain Apps with Xposed Module</a></li>
+<li><a href="http://repo.xposed.info/module/biz.bokhorst.xprivacy" target="_blank">XPrivacy</a></li>
+<li><a href="http://repo.xposed.info/" target="_blank">Xposed Module Repository</a></li>
+<li><a href="http://forum.xda-developers.com/xposed" target="_blank">Xposed Framework Modules</a></li>
+<li><a href="https://www.youtube.com/user/xdadevelopers" target="_blank">YouTube xdadevelopers</a></li>
+<li><a href="http://repo.xposed.info/module/ind.fem.black.xposed.mods" target="_blank">XBlast Tools</a></li>
+<li><a href="http://repo.xposed.info/module/com.ceco.kitkat.gravitybox" target="_blank">GravityBox [KK]</a></li>
+<li><a href="http://repo.xposed.info/module/com.devadvance.rootcloak" target="_blank">RootCloak</a></li>
+<li><a href="http://forum.xda-developers.com/showthread.php?t=1330150" target="_blank">LMT Launcher</a></li>
+<li><a href="http://albertvaka.wordpress.com/" target="_blank">KDE Connect</a></li>
+<li><a href="http://airdroid.com/" target="_blank">AirDroid</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer" target="_blank">BusyBox Installer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=diewland.changemac" target="_blank">Mac Address Ghost</a></li>
+<li><a href="https://anysoftkeyboard.github.io/" target="_blank">AnySoftKeyboard</a></li>
+</ul></div>
+
+<h2 class="cat" id="search">Search engines</h2>
+
+<div class="box"><ul>
+<li><a href="https://duckduckgo.com/" target="_blank">Duck Duck Go</a></li>
+<li><a href="https://ixquick.com/" target="_blank">Ixquick</a></li>
+<li><a href="https://startpage.com/" target="_blank">Startpage</a></li>
+<li><a href="https://blekko.com/" target="_blank">Blekko</a></li>
+<li><a href="http://www.surfcanyon.com/" target="_blank">Surf Canyon</a></li>
+<li><a href="https://encrypted.google.com/" target="_blank">Google encrypted</a></li>
+<li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
+<li><a href="https://archive.org/" target="_blank">WayBack Machine</a></li>
+</ul></div>
+
+<h2 class="cat" id="paste">Paste</h2>
+
+<div class="box"><ul>
+<li><a href="http://susepaste.org/" target="_blank">openSUSE paste</a></li>
+<li><a href="http://zerobin.net/" target="_blank">ZeroBin</a></li>
+<li><a href="http://pastebin.mozilla.org/" target="_blank">Mozilla Pastebin</a></li>
+<li><a href="http://paste.pound-python.org/" target="_blank">LodgeIt!</a></li>
+<li><a href="http://bpaste.net/" target="_blank">spacepaste</a></li>
+<li><a href="http://dpaste.com/" target="_blank">dpaste</a></li>
+<li><a href="https://dpaste.de/" target="_blank">dpaste.de</a></li>
+<li><a href="http://pastie.org/" target="_blank">Pastie</a></li>
+<li><a href="http://pastebin.com/" target="_blank">Pastebin.com</a></li>
+<li><a href="http://pastebin.ca/" target="_blank">Pastebin.ca</a></li>
+<li><a href="http://codepad.org/" target="_blank">codepad</a></li>
+<li><a href="https://ezcrypt.it/" target="_blank">EZCrypt</a></li>
+<li><a href="http://apaste.info/" target="_blank">Apache Paste Bucket</a></li>
+</ul></div>
+
+<h3 id="paste-textual">Paste textual</h3>
+
+<div class="box"><ul>
+<li><a href="http://ix.io/" target="_blank">ix</a></li>
+<li><a href="http://sprunge.us/" target="_blank">sprunge</a></li>
+<li><a href="https://github.com/xem/paste" target="_blank">xem paste</a></li>
+</ul></div>
+
+<h3 id="file-img">File and img</h3>
+
+<div class="box"><ul>
+<li><a href="http://img.susepaste.org/" target="_blank">openSUSE image paste></li>
+<li><a href="http://minus.com/" target="_blank">minus</a></li>
+<li><a href="http://picpaste.com/" target="_blank">PicPaste</a></li>
+<li><a href="https://imgur.com/" target="_blank">imgur</a></li>
+<li><a href="http://pastebin.ca/" target="_blank">pastebin.ca - Type, paste, share.</a></li>
+<li><a href="http://www.postimage.org/" target="_blank">Postimage.org</a></li>
+<li><a href="http://ompldr.org/" target="_blank">omploader</a></li>
+<li><a href="https://privatepaste.com/" target="_blank">privatepaste</a></li>
+<li><a href="http://uploadpie.com/" target="_blank">Upload Pie</a></li>
+<li><a href="http://www.2imgs.com/" target="_blank">2i</a></li>
+<li><a href="http://tinypic.com/" target="_blank">TinyPic</a></li>
+<li><a href="http://slike.milf-hosting.info/" target="_blank">MILF Image Hosting</a></li>
+<li><a href="http://justpaste.it/" target="_blank">JustPaste.It</a></li>
+<li><a href="https://gist.github.com/" target="_blank">Gist GitHub</a></li>
+</ul></div>
+
+<h2 class="cat" id="ip-loc">IP adress check and Locator</h2>
+
+<h3 id="ip">IP address check</h3>
+
+<div class="box"><ul>
+<li><a href="http://anapnea.net/tut_tunneling_check.php" target="_blank">Anapnea Tunneling Check</a></li>
+<li><a href="https://check.torproject.org/" target="_blank">Tor Check</a></li>
+<li><a href="http://ip-check.info/?lang=de" target="_blank">JonDonym IP-Check</a></li>
+<li><a href="http://www.whatismyip.com/" target="_blank">What Is My IP</a></li>
+<li><a href="http://www.moanmyip.com/" target="_blank">Moan My IP</a></li>
+</ul></div>
+
+<h3 id="loc">Locator</h3>
+
+<div class="box"><ul>
+<li><a href="http://www.hostip.info/" target="_blank">hostip.info</a></li>
+<li><a href="http://www.watismijnip.nl/" target="_blank">WatIsMijnIP.nl</a></li>
+<li><a href="http://www.wieistmeineip.de/" target="_blank">Wie ist meine IP</a></li>
+<li><a href="http://www.ip-adress.com/" target="_blank">IP-adress.com</a></li>
+<li><a href="http://tejji.com/ip/ip-to-location.aspx" target="_blank">Tejji | IP to location</a></li>
+<li><a href="http://geotarget-iplookup.info/lookup.py" target="_blank">Geotarget</a></li>
+</ul></div>
+
+<h2 class="cat" id="ip-loc">Shells</h2>
+
+<div class="box"><ul>
+<li><a href="http://shells.red-pill.eu/" target="_blank">Free Shells Accounts</a></li>
+<li><a href="http://anapnea.net/" target="_blank">Anapnea</a></li>
+<li><a href="http://respiratio.net/" target="_blank">Respiratio</a></li>
+<li><a href="http://shells.red-pill.eu/index.php?a=rate&amp;u=xe3tec" target="_blank">Respiratio rating</a></li>
+<li><a href="http://tokyo.techfilmer.com/" target="_blank">tokyoshells</a></li>
+<li><a href="http://blinkenshell.org/wiki/Start" target="_blank">Blinkenshell</a></li>
+<li><a href="http://www.insomnia247.nl/" target="_blank">Insomnia 24/7</a></li>
+</ul></div>
+<footer>
+<p>Created and designed by <a href="http://zdroidblog.info/" target="_blank">ZDroid</a> @ 2015</p>
+<p>Hosted by Horia</p>
+</footer>
+
+<a title="Real Time Web Analytics" href="http://clicky.com/100722789" target="_blank"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100722789);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100722789ns.gif" /></p></noscript>
+
+
+</body></html>
+<!-- End of document
+================================================== -->

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"><!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- Basic
+================================================== -->
+<meta charset="utf-8">
+<title>nemysis@FreeBSD.org</title>
+<meta name="description" content="nemysis@FreeBSD.org">
+<meta name="author" content="nemysis">
+<meta name="keywords" content="nemysis, bsd, freebsd, pc-bsd, pfsense, unix">
+
+<!-- Mobile
+================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- CSS
+================================================== -->
+<link rel="stylesheet" href="index_files/nemysis.css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Favicons
+================================================== -->
+<link rel="shortcut icon" href="http://people.freebsd.org/~nemysis/index_files/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://people.freebsd.org/~nemysis/index_files/favicon.ico" type="image/x-icon">
+<style>#vawpatodcimnfnftjowvabifctqnnwiq{border:solid 2px #fff !important;color:#fff !important;display:block !important;height:auto !important;margin:0 !important;opacity:0.9 !important;padding:7px 10px !important;position:fixed !important;visibility:visible !important;width:auto !important;z-index:2147483647 !important;-moz-border-radius:5px !important;border-radius:5px !important;-moz-box-shadow:0px 0px 20px #000 !important;box-shadow:0px 0px 20px #000 !important;}.vawpatodcimnfnftjowvabifctqnnwiq-blocked{color:#777 !important;display:inline !important;text-decoration:line-through !important;}#vawpatodcimnfnftjowvabifctqnnwiq span{background:transparent !important;}#vawpatodcimnfnftjowvabifctqnnwiq div{border:0 !important;margin:0 !important;padding:0 !important;width:auto !important;letter-spacing:normal !important;font:13px Arial,Helvetica !important;text-align:left !important;text-shadow:none !important;text-transform:none !important;word-spacing:normal !important;}#vawpatodcimnfnftjowvabifctqnnwiq a{font-weight:normal !important;background:none !important;text-decoration:underline !important;color:#fff !important;}@media print{#vawpatodcimnfnftjowvabifctqnnwiq{display:none !important;}}</style><link href="index_files/Content.css" type="text/css" rel="stylesheet"></head>
+
+<!-- Page
+================================================== -->
+<body>
+<header>
+<div class="top">Made in <a href="http://unix.org/" target="_blank">UNIX®</a></div>
+<nav id="home"><ul><li id="homenav"><a href="http://people.freebsd.org/~nemysis/" id="hml">Home</a></li>
+<li id="linksnav"><a href="http://people.freebsd.org/~nemysis/links.html" id="lkl">Links</a></li>
+</ul></nav>
+</header>
+<br><br><br>
+<h1><span style="color: #D12828;">nemysis</span>@<span style="color: #58BCFF;">FreeBSD.org</span><span style="color: orange;">[</span>~<span style="color: orange;">]</span>+</h1>
+
+<p><img src="index_files/milestone.jpg" class="main" alt="milestone"></p>
+
+<hr>
+
+<div class="dock"><a href="http://forums.freebsd.org/"><img src="index_files/freebsd.png" style="width: auto; height: 48px;" alt="freebsd"></a>
+<a href="http://forums.pcbsd.org/"><img src="index_files/pcbsd.png" style="width: auto; height: 48px;" alt="pcbsd"></a>
+<a href="http://forum.pfsense.org/"><img src="index_files/pfsense.png" style="width: auto; height: 48px; border-radius: 25px;" alt="pfsense"></a>
+<a href="http://apple.com/"><img src="index_files/apple.jpg" style="width: auto; height: 48px; border-radius: 25px;" alt="apple"></a>
+<footer>
+<p>Created and designed by <a href="http://zdroidblog.info/" target="_blank">ZDroid</a> @ 2014</p>
+<p>Hosted on <a href="http://people.freebsd.org/" target="_blank">FreeBSD poeple</a></p>
+<p><!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8922858; 
+var sc_invisible=0; 
+var sc_security="256a2e92"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript></noscript></p><div class="statcounter"><a title="free web stats" href="http://statcounter.com/" target="_blank"></a></div>
+<!-- End of StatCounter Code for Default Guide --><p></p>
+</footer>
+
+
+
+</body></html>
+<!-- End of document
+================================================== -->
